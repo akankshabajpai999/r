@@ -1,4 +1,3 @@
-# Statistics One Lecture 9b
 # standardized multiple regression analysis
 
 library(psych)
